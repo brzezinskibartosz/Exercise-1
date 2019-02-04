@@ -1,0 +1,6 @@
+#setting variables
+name = 'Bartosz Brzeziński'
+iceCreamRating = 9
+sleepingIndex = 0.90
+def firtsStatement(name, iceCreamRating, sleepingIndex):
+  print('My name is',name, 'and I give eating ice cream a score of',str(iceCreamRating), 'out of 10!')
