@@ -24,3 +24,7 @@ Upload your changes to github, on your **own** Exercise 1 repository that you cl
 ## My morning 
 
 Random text
+
+## Nowa wiadomosc
+
+Random text 1
